@@ -1,0 +1,314 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: black;
+    text-decoration: none;
+}
+
+.__1 {
+    height: 80px;
+    width: 20%;
+    background-color: rgb(253, 3, 3);
+    color: white;
+    float: left;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+._1 {
+    height: 80px;
+    width: 80%;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    float: left;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+._1 a {
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+    background-color: black;
+    height: 40px;
+    width: 15%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 5px;
+}
+
+._2 {
+    height: 80px;
+    width: 20%;
+    background-color: rgb(253, 3, 3);
+    float: left;
+}
+
+._2 a {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    height: 40px;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 5px;
+    margin-left: 65px;
+    margin-top: 20px;
+}
+
+._3 {
+    height: 80px;
+    width: 80%;
+    background-color: black;
+    float: left;
+}
+
+._3 marquee {
+    color: white;
+    margin-top: 20px;
+}
+
+._4 {
+    height: 500px;
+    width: 20%;
+    background-color: rgb(253, 3, 3);
+    float: left;
+}
+
+._4 a {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    height: 40px;
+    width: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 5px;
+    margin-left: 65px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+._5 {
+    height: 500px;
+    width: 80%;
+    float: left;
+}
+
+._5-1 {
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+
+._5-1 img {
+    float: left;
+    height: 200px;
+    width: 50%;
+}
+
+._5-2 {
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+
+._5-3 {
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+
+._5-4 {
+    height: 250px;
+    width: 50%;
+    float: left;
+    background-color: bisque;
+}
+
+._6 {
+    height: 350px;
+    width: 26.66%;
+    float: left;
+    margin-left: 20%;
+    background-color: rgb(187, 238, 238);
+}
+
+._7 {
+    height: 350px;
+    width: 26.66%;
+    float: left;
+    background-color: rgb(237, 246, 159);
+}
+
+._8 {
+    height: 350px;
+    width: 26.66%;
+    float: left;
+    background-color: rgb(172, 172, 244);
+}
+
+._9 {
+    width: 80%;
+    float: left;
+    margin-left: 20%;
+}
+
+._h1 {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+p {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+._10 {
+    height: 400px;
+    width: 30%;
+    background-color: rgb(238, 240, 202);
+    float: left;
+    margin-left: 20%;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+._11 {
+    height: 200px;
+    width: 25%;
+    background-color: rgb(129, 123, 196);
+    float: left;
+}
+
+._12 {
+    height: 200px;
+    width: 25%;
+    background-color: rgb(153, 202, 246);
+    float: left;
+}
+
+._13 {
+    margin-left: 20%;
+}
+
+._13 img {
+    height: 320px;
+}
+
+.h11 {
+    margin-left: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+._14 {
+    height: 350px;
+    width: 40%;
+    margin-left: 20%;
+    float: left;
+    box-sizing: border-box;
+}
+
+._15 {
+    height: 400px;
+    width: 30%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 60px;
+    border: solid 2px black;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+._16 {
+    margin-left: 20%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+label {
+    color: red;
+}
+
+input {
+    margin-left: 20%px;
+    height: 30px;
+    width: 99%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid 1px black;
+}
+
+::placeholder {
+    text-align: center;
+}
+
+button {
+    height: 40px;
+    width: 20%;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.foo {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    margin-top: 50px;
+    color: white;
+}
+
+#_ul1 {
+    margin-left: 20%;
+    list-style-type: none;
+    margin-top: 5%;
+    float: left;
+}
+
+#_ul2 {
+    margin-left: 15%;
+    list-style-type: none;
+    margin-top: 5%;
+    float: left;
+}
+
+#_ul3 {
+    margin-left: 15%;
+    list-style-type: none;
+    margin-top: 5%;
+    float: left;
+}
+
+#_ul4 {
+    margin-left: 8%;
+    list-style-type: none;
+    margin-top: 5%;
+    float: left;
+}
+
+.dashboard a {
+    height: 50px;
+    width: 10%;
+    float: left;
+    margin-left: 10%;
+    color: black;
+    text-decoration: none;
+}
